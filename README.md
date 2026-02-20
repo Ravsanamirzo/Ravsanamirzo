@@ -1,4 +1,4 @@
-# 🌙 Roxana (Ravsana Mirzo)
+# 🌙 Ravsana Mirzo
 
 > **Software Engineering Student | Future Fullstack Developer**
 
